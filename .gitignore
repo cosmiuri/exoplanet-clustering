@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+
+# Data (optional, but recommended)
+data/*.csv
